@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "F:\\BLOCKCHAIN\\Quarter 01\\BLOCKCHAIN SOLIDITY HANDS ON CODE\\Solidity Code tested compiled (hardhat)\\contracts\\Addition.sol": {
+      "lastModificationDate": 1660600420751,
+      "contentHash": "1ec43c50ae594d79c3689673866c6fcd",
+      "sourceName": "contracts/Addition.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Addition"
+      ]
+    },
+    "F:\\BLOCKCHAIN\\Quarter 01\\BLOCKCHAIN SOLIDITY HANDS ON CODE\\Solidity Code tested compiled (hardhat)\\contracts\\Token.sol": {
+      "lastModificationDate": 1663189387732,
+      "contentHash": "c3bd92b0ec8e632afa2392708205316b",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    }
+  }
+}
